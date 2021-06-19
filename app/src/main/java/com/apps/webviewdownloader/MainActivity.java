@@ -97,7 +97,7 @@ public class MainActivity extends AppCompatActivity {
                 request.setDestinationInExternalPublicDir(Environment.DIRECTORY_DOWNLOADS,URLUtil.guessFileName(url, contentDisposition, mimeType));
                 DownloadManager dm = (DownloadManager) getSystemService(DOWNLOAD_SERVICE);
                 dm.enqueue(request);
-                Toast.makeText(getApplicationContext(),"Downloading File",Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(),"Please wait, your file is being downloaded . . .",Toast.LENGTH_SHORT).show();
 
             }
         });
