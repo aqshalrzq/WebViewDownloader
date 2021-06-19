@@ -12,7 +12,7 @@ The features in this project are:
 # Reference
 The references that I use to create a WebView that can download a file are as follows:
 
-Channel Youtube => [Youtube Channel](https://www.youtube.com/watch?v=XhEg8VloXos)
+Channel Youtube => [Youtube Channel](https://www.youtube.com/watch?v=XhEg8VloXos).
 Blog Website    => [Website](https://weblearners.blogspot.com/2020/04/how-to-enable-download-in-android.html)
 
 I found this reference on the Youtube channel. Maybe, this can be used as a reference when you are also working on an android project that matches the theme I'm working on. 
@@ -20,5 +20,5 @@ I hope, this is useful for you.
 
 #Screenshot
 For those of you who want to see the results of this project are as follows, enjoy!
-<img align="left" src="https://github.com/aqshalrzq/WebViewDownloader/blob/master/screenshot/gambar_01.jpg" width="411" height="823" hspace="2"/>
-<img align="left" src="https://github.com/aqshalrzq/WebViewDownloader/blob/master/screenshot/gambar_02.jpg" width="411" height="823" hspace="2"/>
+<img align="left" src="https://github.com/aqshalrzq/WebViewDownloader/blob/master/screenshot/gambar_01.jpg" width="360" height="640" hspace="2"/>
+<img align="left" src="https://github.com/aqshalrzq/WebViewDownloader/blob/master/screenshot/gambar_02.jpg" width="360" height="640" hspace="2"/>
