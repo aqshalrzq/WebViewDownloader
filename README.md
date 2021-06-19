@@ -20,5 +20,5 @@ I hope, this is useful for you.
 
 #Screenshot
 For those of you who want to see the results of this project are as follows, enjoy!
-<img align="left" src="https://github.com/aqshalrzq/WebViewDownloader/blob/master/screenshot/gambar_01.jpg" width="270" height="480" hspace="2"/>
-<img align="left" src="https://github.com/aqshalrzq/WebViewDownloader/blob/master/screenshot/gambar_02.jpg" width="270" height="480" hspace="2"/>
+<img align="left" src="https://github.com/aqshalrzq/WebViewDownloader/blob/master/screenshot/gambar_01.jpg" width="411" height="823" hspace="2"/>
+<img align="left" src="https://github.com/aqshalrzq/WebViewDownloader/blob/master/screenshot/gambar_02.jpg" width="411" height="823" hspace="2"/>
