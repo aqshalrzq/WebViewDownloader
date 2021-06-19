@@ -12,9 +12,8 @@ The features in this project are:
 # Reference
 The references that I use to create a WebView that can download a file are as follows:
 
-Channel Youtube => [Youtube](https://www.youtube.com/watch?v=XhEg8VloXos)
-
-Blog Website    => [weblearners.blogspot.com](https://weblearners.blogspot.com/2020/04/how-to-enable-download-in-android.html)
+Channel Youtube => [Youtube Channel](https://www.youtube.com/watch?v=XhEg8VloXos)
+Blog Website    => [Website](https://weblearners.blogspot.com/2020/04/how-to-enable-download-in-android.html)
 
 I found this reference on the Youtube channel. Maybe, this can be used as a reference when you are also working on an android project that matches the theme I'm working on. 
 I hope, this is useful for you.
